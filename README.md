@@ -1,2 +1,2 @@
 # Building-a-Model-To-Predict-Diabetes
-This -is Machine Learning  model that predict diabetes using LogisticRegression
+This project Machine Learning project aims to build a  model that predict diabetes using LogisticRegression
